@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "city",
+		"player1": "bf",
+		"player2": "larry",
+		"player3": null,
+		"events": [
+			[
+				38400,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				57300,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				117600,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					],
+					[
+						"Play Animation",
+						"hey",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"cheer",
+						"gf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Multiversal"
+	}
+}

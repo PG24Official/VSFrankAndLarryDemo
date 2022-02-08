@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Well that didn't go well for me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "haha lol die trash"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "HEY! Don't get salty with me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "It's just not worth it, y'know?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "*beep boops that when translated, harshly insults Frank's rapping*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "GRR!! Says the damn MIDGET in the room! We're doing this again! And I won't lose this time!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "we're not in a room"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "You knew what I meant!"
+		}
+	]
+}

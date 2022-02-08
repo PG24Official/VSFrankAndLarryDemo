@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dialogue_Frank.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angy0000" x="0" y="0" width="275" height="285" frameX="0" frameY="0" frameWidth="282" frameHeight="285"/>
+	<SubTexture name="angy0001" x="0" y="0" width="275" height="285" frameX="0" frameY="0" frameWidth="282" frameHeight="285"/>
+	<SubTexture name="angy0002" x="275" y="0" width="275" height="285" frameX="-7" frameY="0" frameWidth="282" frameHeight="285"/>
+	<SubTexture name="angy0003" x="275" y="0" width="275" height="285" frameX="-7" frameY="0" frameWidth="282" frameHeight="285"/>
+	<SubTexture name="he mad0000" x="275" y="0" width="275" height="285" frameX="0" frameY="0" frameWidth="282" frameHeight="285"/>
+	<SubTexture name="default0000" x="550" y="0" width="275" height="306"/>
+	<SubTexture name="default0001" x="550" y="0" width="275" height="306"/>
+	<SubTexture name="default0002" x="0" y="306" width="275" height="295" frameX="0" frameY="-11" frameWidth="275" frameHeight="306"/>
+	<SubTexture name="default0003" x="0" y="306" width="275" height="295" frameX="0" frameY="-11" frameWidth="275" frameHeight="306"/>
+	<SubTexture name="default0004" x="275" y="306" width="275" height="285" frameX="0" frameY="-21" frameWidth="275" frameHeight="306"/>
+	<SubTexture name="default0005" x="275" y="306" width="275" height="285" frameX="0" frameY="-21" frameWidth="275" frameHeight="306"/>
+	<SubTexture name="your mum0000" x="275" y="306" width="275" height="285" frameX="0" frameY="-21" frameWidth="275" frameHeight="306"/>
+	<SubTexture name="frown0000" x="550" y="306" width="275" height="306"/>
+	<SubTexture name="frown0001" x="550" y="306" width="275" height="306"/>
+	<SubTexture name="frown0002" x="0" y="612" width="275" height="295" frameX="0" frameY="-11" frameWidth="275" frameHeight="306"/>
+	<SubTexture name="frown0003" x="0" y="612" width="275" height="295" frameX="0" frameY="-11" frameWidth="275" frameHeight="306"/>
+	<SubTexture name="frown0004" x="275" y="612" width="275" height="285" frameX="0" frameY="-21" frameWidth="275" frameHeight="306"/>
+	<SubTexture name="frown0005" x="275" y="612" width="275" height="285" frameX="0" frameY="-21" frameWidth="275" frameHeight="306"/>
+	<SubTexture name="amogus0000" x="275" y="612" width="275" height="285" frameX="0" frameY="-21" frameWidth="275" frameHeight="306"/>
+</TextureAtlas>

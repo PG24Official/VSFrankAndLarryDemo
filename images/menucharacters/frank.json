@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Frank Psych engine menu",
+	"image": "Menu_Frank",
+	"position": [
+		80,
+		125
+	],
+	"scale": 0.6,
+	"confirm_anim": "M Dad Idle"
+}

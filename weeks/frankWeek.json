@@ -1,0 +1,40 @@
+{
+	"storyName": "vs. Frank and Larry DEMO",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "city",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Wassup",
+			"frank",
+			[
+				56,
+				102,
+				255
+			]
+		],
+		[
+			"Tension",
+			"frank",
+			[
+				56,
+				102,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"frank",
+		"bf",
+		"gf"
+	],
+	"weekName": "Frank Week"
+}

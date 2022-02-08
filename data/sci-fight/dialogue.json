@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "beep... bup... baboop..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "ENOUGH IS ENOUGH"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "I DO NOT WANT TO SUFFER TO YOU FREAKS ANYMORE!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "I WILL END YOU BOTH ON THE SPOT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "AND IF IT'S A FIGHT YOU WANT, THEN LETS SEE IF YOU SURVIVE THIS!"
+		}
+	]
+}

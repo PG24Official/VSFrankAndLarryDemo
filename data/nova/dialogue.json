@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "larry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "FRANk!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh! Larry! You finally made it! So, do you want to-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "larry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What did I tell you about going out on your own?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "larry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The last time I let you do that, you hijacked a helicopter and went joyriding in it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Heh heh, yeah... I remeber that!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Wait. Frank did WHAT!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "larry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yep. He actually did one time."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My bad!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "larry",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Anyways, I'll deal with the vocaloid's brother real quickly..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "*in head* (He's not wrong there.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "larry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Y'know, You really shouldn't underestimate Frank like that. Ever."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "larry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I watched all the previous battles from a distance and you beat him three consecutive times."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "larry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So now, I hope you're ready for your kneecaps to be crushed into a chalky powder."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "b-beep bappity boop beh!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "larry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Also, could you use a bit of English?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "J-J-J..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "larry",
+			"boxState": "normal",
+			"expression": "grinning",
+			"text": "That's it! That's it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "JOE MAMA!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "larry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OK, THAT IS IT."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "larry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I HOPE YOU LIKE A KNUCKLE SANDWICH BECAUSE THAT'S WHAT YOU'RE GETTING!"
+		}
+	]
+}

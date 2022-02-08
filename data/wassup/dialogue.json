@@ -1,0 +1,158 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So, how long until we get to this pizza place you were talking about?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Two minutes? OK! Let's start thinking about our orders. How about..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Double pepperoni? Because, DAMN thats some good stuff!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "BAP BEH? BEEP SKDEE BAP!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "GAH! Who are you!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh! Sorry I scared you! I was just here to talk to the blue guy down there!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "*in head* (Is he talking about me?)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, little dude! I've been hearing about ya!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm a huge fan, bro! Everyone who's stood in your way has failed to win your rap battles! You're a god at singing, my guy!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop skedoop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Um, what is he saying exactly?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh! He normally speaks like that! He prefers it to English words! He says they're..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "'Too lengthy and lack simplicity'"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I offer a free translation service, though!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Nah. I'm good. I just spoke to you so I could rap battle him."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "His name is 'Boyfriend' by the way."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, ok! Thanks!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap bep baboop bah bap baboop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "frank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And heard me you did! Let's rock, little dude!"
+		}
+	]
+}
